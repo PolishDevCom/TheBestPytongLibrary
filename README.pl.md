@@ -50,4 +50,5 @@ Projekt ten jest pracą grupowa, poniżej znajduje się lista ludzi dzięki któ
 Ten projekt został wykonany na licencji MIT - zobacz plik [LICENSE](LICENSE.md).
 
 ## Linki
+ - [Dokumentacja]()
  - [Issues](https://github.com/PolishDevCom/TheBestPytongLibrary/issues)
