@@ -33,7 +33,7 @@ W tym miejscu kiedyś pojawi się opis jak w szybki sposób uruchomić projekt
 ## Autorzy
 Projekt ten jest pracą grupowa, poniżej znajduje się lista ludzi dzięki którym powstał:
  - Piotr "Ugz" Bielski
-   - Kiedyś backend, teraz frontend - czasem człowiek orkiestra.
+   - `Kiedyś backend, teraz frontend - czasem człowiek orkiestra.`
    - LinkedIn:
    - GitHub:
  - Emil "Czaku" Krzaczyński
