@@ -34,16 +34,20 @@ W tym miejscu kiedyś pojawi się opis jak w szybki sposób uruchomić projekt
 Projekt ten jest pracą grupowa, poniżej znajduje się lista ludzi dzięki którym powstał:
  - Piotr "Ugz" Bielski
    - `Kiedyś backend, teraz frontend - czasem człowiek orkiestra.`
-   - LinkedIn:
-   - GitHub:
+   - LinkedIn: https://www.linkedin.com/in/piotr-bielski/
+   - GitHub: https://github.com/UgzSourceCode
  - Emil "Czaku" Krzaczyński
    - `Miejsce na opis`
-   - LinkedIn: 
-   - GitHub: 
- - Adam "Figelion"
+   - LinkedIn: https://www.linkedin.com/in/emil-krzaczynski/
+   - GitHub: https://github.com/czakuou
+ - Adam "Figelion" Bugaj
+   - `Miejsce na opis`
+   - LinkedIn: https://www.linkedin.com/in/adam-bugaj-428600147/
+   - GitHub: https://github.com/figelion
+ - Karol Szuster
    - `Miejsce na opis`
    - LinkedIn: 
-   - GitHub: 
+   - GitHub: https://github.com/kszuster
 
 ## Licencja
 
