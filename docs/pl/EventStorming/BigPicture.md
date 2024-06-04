@@ -41,3 +41,9 @@ Na tym etapie zrobiliśmy burzę muzgów i dodawaliśmy karteczki opisujące zda
 
 ![bigpicture_events_pl.png](../../../assets/bigpicture_events_pl.png)
 
+## Oś czasu
+Po uzbieraniu zdarzeń wprowadzono oś czasu, i uporządkowano zdarzenia od najstarszego do najmłodszego.
+Gdy zdarzenia które mieliśmy znalazły się na osi czasu, prześledziliśmy je od końca sprawdzając czy zaszły wszystkie inne zdarzenia potrzebne do wystąpienia obecnego.
+
+
+![bigpicture_timeline_pl.png](../../../assets/bigpicture_timeline_pl.png)
