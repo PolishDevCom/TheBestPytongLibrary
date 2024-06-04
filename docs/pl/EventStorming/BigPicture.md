@@ -10,3 +10,7 @@ Do wszystkich etapów potrzebna będzie agenda mówiąca jaka kartka co oznacza,
 ![agenda.png](../../../assets/agenda.png)
 
 ## Cel warsztatu
+Podzielił bym tą kategorię na dwie osobne:
+ - Rozpoczeliśmy je chcąc nauczyć się odkrywania procesów biznesowych, i zdobycia doświadczenia z Event Stormingiem.
+ - Dlatego też postawiliśmy sobie cel zbadania procesów biznesowych biblioteki. I tym na czym się skupiamy to jak najlepsze zaprojektowanie systemu bibliotecznego.
+
