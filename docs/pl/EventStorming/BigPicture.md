@@ -54,6 +54,20 @@ Gdy wiedzieliśmy kiedy zachodzi jakie zdarzenie skupiliśmy się na wskazaniu k
 ![bigpicture_actors_pl.png](../../../assets/bigpicture_actors_pl.png)
 
 Dodatkowo na tym etapie jeszcze raz patrząc po czasie uznano że warto przedyskutować i zmienić:
-- zniszczono wypożyczoną książkę -> zgłoszono zniszczenie wypożyczonej książki
-- zniszczono książkę (nie wykryty sprawca) -> zgłoszono zniszczenie książki w księgozbiorze
-- dodano zdarzenie "odblokowano konto czytelnika"
+ - zniszczono wypożyczoną książkę -> zgłoszono zniszczenie wypożyczonej książki
+ - zniszczono książkę (nie wykryty sprawca) -> zgłoszono zniszczenie książki w księgozbiorze
+ - dodano zdarzenie "odblokowano konto czytelnika"
+
+## Istotne problemy
+Gdy mamy już wszystko uporządkowane oraz przypisanych aktorów przyszedł czas na wypisanie istotnych problemów(tzw. hotspot's):
+ - W jakich przypadkach czytelnik ma mieć blokowane konto użytkownika? - czy te reguły mogą się zmieniać?
+ - W jakich przypadkach czyteknik ma mieć odblokowane konto użytkownika? - cz te reguły mogą się zmieniać?
+ - Czy anulowanie kary powinno być akceptowane przez kogoś ważnego w bibliotece? Czy może to zależeć od biblioteki i wynikać z ustawień?
+ - W jakich przypadkach może zostać zawieszona karta biblioteczna? - czy te reguły mogą się zmieniać?
+ - Czy termin oddania książki będzie z góry ustalony czy powinien wynikać z ustawień systemu?
+ - Czym się różni zniszczenie książki w księgozbiorze/czytelni od wypożyczonej książki?
+ - Czy przedłużenie okresu wypożyczenia książki ma limit? jeśli tak to jaki? czy wynika on z ustawień systemu?
+ - jakie książki można rezerwować? - czy te reguły mogą się zmieniać?
+ - jakie książki można wyciągać tzn zabierać do czytelni? - czy te reguły mogą się zmieniać?
+ - jakie warunki muszą być spełnione aby można było wydać kartę biblioteczną? - czy te reguły mogą się zmieniać?
+ - na potwierdzeniu jakich danych czytelnika nam zależy? - czy reguły to określające mogą się zmieniać?
