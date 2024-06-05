@@ -47,3 +47,13 @@ Gdy zdarzenia które mieliśmy znalazły się na osi czasu, prześledziliśmy je
 
 
 ![bigpicture_timeline_pl.png](../../../assets/bigpicture_timeline_pl.png)
+
+## Źródło zdarzeń
+Gdy wiedzieliśmy kiedy zachodzi jakie zdarzenie skupiliśmy się na wskazaniu kto wywołuje dane zdarzenie.
+
+![bigpicture_actors_pl.png](../../../assets/bigpicture_actors_pl.png)
+
+Dodatkowo na tym etapie jeszcze raz patrząc po czasie uznano że warto przedyskutować i zmienić:
+- zniszczono wypożyczoną książkę -> zgłoszono zniszczenie wypożyczonej książki
+- zniszczono książkę (nie wykryty sprawca) -> zgłoszono zniszczenie książki w księgozbiorze
+- dodano zdarzenie "odblokowano konto czytelnika"
