@@ -50,7 +50,6 @@ Gdy zdarzenia które mieliśmy znalazły się na osi czasu, prześledziliśmy je
 
 ## Źródło zdarzeń
 Gdy wiedzieliśmy kiedy zachodzi jakie zdarzenie skupiliśmy się na wskazaniu kto wywołuje dane zdarzenie.
-
 ![bigpicture_actors_pl.png](../../../assets/bigpicture_actors_pl.png)
 
 Dodatkowo na tym etapie jeszcze raz patrząc po czasie uznano że warto przedyskutować i zmienić:
