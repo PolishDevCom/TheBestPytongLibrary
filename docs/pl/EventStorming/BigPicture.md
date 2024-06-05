@@ -71,3 +71,11 @@ Gdy mamy już wszystko uporządkowane oraz przypisanych aktorów przyszedł czas
  - jakie książki można wyciągać tzn zabierać do czytelni? - czy te reguły mogą się zmieniać?
  - jakie warunki muszą być spełnione aby można było wydać kartę biblioteczną? - czy te reguły mogą się zmieniać?
  - na potwierdzeniu jakich danych czytelnika nam zależy? - czy reguły to określające mogą się zmieniać?
+
+## Pomysły i możliwości
+Gdy znamy już problemy i przeszkody czas wypisać i zaznaczyć pomysły i możliwości(tzw. opportinity):
+ - reguły które mogą ewoluowac warto sobie oznaczać aby umieszczać je w osobnych modułach funkcyjnych ułatwiając ich rozbudowywanie w przyszłości
+ - elementy zależne od konfiguracji systemu można spróbować ująć osobnymi procesami biznesowymi tworząc dla nich pojedyńcze źródło prawdy
+ - sprawdzanie terminów wypożyczeń które minęły można oprzeć na harmonogramie procesów, podczas wyporzyczenia dodawać do harmonogramu zadanie triggerujące dalsze akcje w przypadku nie usunięcia go podczas zwrotu ksiązki
+ - naliczanie kary wygląda jak czysta funkcja więc można zaimplementować to jako prosty element funkcyjny
+ - płatność kar można oprzeć na dowolnym systemie zewnętrznym, a dla przyszłościowej opcji zmiany można otoczyć go własną abstrakcją
