@@ -6,7 +6,7 @@ Podczas tego procesu skupiliśmy się na:
  - odnalezienie granic modularyzacji (żródła prawcy i zbiory regół)
 
 ## Dodanie poleceń
-![processlevel_add_command_pl.png](processlevel_add_command_pl.png)
+![processlevel_add_command_pl.png](../../../assets/processlevel_add_command_pl.png)
 
 Uwagi dodatkowe:
  - zakupiono książkę -> zgłoszono zakupienie książkę
