@@ -10,4 +10,5 @@ To znaczy istniały procesy biznesowe w domenie bibliotecznej których nie mieli
 Tą iteracje zaczeliśmy od robienia notatek dotyczących DDD a właściwie samego Event Stormingu. Ustaliliśmy że będą one dostępne dla każdej osoby zaangażowanej w projekty PolishDev.
 W notatkach tych opisaliśmy samą metodologię Event Storming, jej etapy. Skupialiśmy się na tym dlaczego to się robi, jakie kroki należy wykonać, jak zweryfikować wraz z heurystykami.
 
-Naturalnie pierwszym etapem był Big Picture
+Naturalnie pierwszym etapem był Big Picture -> [BigPicture.md](BigPicture.md)
+Następnie drugim był Process Level -> [ProcessLevel.md](ProcessLevel.md)
