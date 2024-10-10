@@ -59,10 +59,16 @@ Dodano modele odczytu:
 - lista kar użytkownika - x4
 
 ![processlevel_add_readmodel_pl_part1.png](../../../assets/processlevel_add_readmodel_pl_part1.png)
+
 ![processlevel_add_readmodel_pl_part2.png](../../../assets/processlevel_add_readmodel_pl_part2.png)
+
 ![processlevel_add_readmodel_pl_part3.png](../../../assets/processlevel_add_readmodel_pl_part3.png)
+
 ![processlevel_add_readmodel_pl_part4.png](../../../assets/processlevel_add_readmodel_pl_part4.png)
+
 ![processlevel_add_readmodel_pl_part5.png](../../../assets/processlevel_add_readmodel_pl_part5.png)
+
 ![processlevel_add_readmodel_pl_part6.png](../../../assets/processlevel_add_readmodel_pl_part6.png)
+
 
 ## 
