@@ -42,7 +42,7 @@ Postanowienia:
 Zastanowiliśmy się jak powinien wyglądać model odczytu, i w których miejscach go potrzebujemy.
 
 - Model odczytu powinien znajdować się przed komendą.
-- Model odczytu to dane które będą zasilać komendę
+- Model odczytu to dane które będą zasilać komendę z zewnętrz lub z systemu
 
 Dodano modele odczytu:
 - odczyt ilości przedłużeń okresu wypożyczenia
@@ -70,5 +70,51 @@ Dodano modele odczytu:
 
 ![processlevel_add_readmodel_pl_part6.png](../../../assets/processlevel_add_readmodel_pl_part6.png)
 
+Zmiany dodatkowe:
+- dodanie frame'ów w miro aby historycznie widać było od razu jakie zmiany zachodziły na danym obszarze
+## Ryzyka i wyzwania
+W naszym przypadku będą to istotne problemy zgodnie z agendą.
 
-## 
+- Genetyczność raportów - niektóre raporty mogą potrzebować pól których nie przewidzieliśmy na początku
+- rezerwacja książki przez kilka osób w tym samym momencie
+	- udzielenie pierwszeństwa osobie starszej na podstawie nr pesel w danych konta
+	- wywalenie wszystkich i zobaczyć kto znów będzie pierwszy :D
+- zabierając książkę do czytelni lub wypożyczając nie zauważono że jest ona zniszczona - generując problem z zwrotem
+	- zainwestowanie w dobre kamery na terenie biblioteki, oraz przy weryfikacji książki dodanie procedury przekartkowania książki pod kamerę aby móc ustalić czy już usterka była
+	- dodawanie znaczników czasowych aby łatwiej weryfikować kamery
+	- zintegrowanie systemu kamer z systemem bibliotecznych
+- termin wypożyczenia staje się niemożliwy przez jakąś katastrofę bądź okres świąteczny
+	- automatyczne przedłużanie terminu gdy np.:
+		- spadł śnieg i nie jest możliwe dojście do biblioteki (nagła klęska)
+		- biblioteka nie jest czynna z powodu jakiejś niezaplanowanej awarii (awaria biblioteki)
+		- zostały nagle ustawione dni świąteczne w ostatnie dni terminu (nagłe święta)
+- awaria systemu informatycznego
+	- możliwość prowadzenia wypożyczeń i zwrotów jako eventy do wprowadzenia na kartkach/zeszytach z opcją wprowadzenia ich później\
+- Obsługa rękojmi sprzedanej książki
+	- Odnotowanie i zarejestrowanie stanu książki przed wydaniem kupującemu + podpisany protokół odbioru
+```Kwestie związane z rękojmią zostały uregulowane w ustawie z dnia 23 kwietnia 1964 roku **Kodeks cywilny**. Zgodnie z _**art. 556** tejże ustawy_ **sprzedawca ponosi odpowiedzialność wobec kupującego za wady fizyczne oraz prawne sprzedanej rzeczy.** Z ustawy nie wynika, czy zbyta rzecz musi być nowa, czy może też być używana, dlatego nic nie stoi na przeszkodzie, aby rękojmia obejmowała również rzeczy używane.```
+- Zgubienie książki której nie da się już kupić
+	- Stworzenie funkcjonalności sprawdzającej dostępność książek i wysyłających notyfikację z radą aby przenieść książkę tylko do czytelni gdy nie da się jej dokupić 
+- Jak naliczać karę? są książki które z czasem zwiększają wartość
+	- można rejestrować zmiany cen książek dostępnych do zakupów albo mieć estymaty aktualnych wartości w systemie
+
+
+Z hotspotu wynikły reguły(hot spot -> reguła)
+- Wrzucenie tej samek książki kilka razy do whishlisty spowoduje bałagan w liście -> dodawana książka nie jest obecna w whishliście
+
+Przy okazji zauważono też możliwe usprawnienia które dodano:
+- możliwość implementacji potwierdzenia danych kontem bankowym
+
+![processlevel_add_hotspot_part1.png](../../../assets/processlevel_add_hotspot_part1.png)
+
+![processlevel_add_hotspot_part2.png](../../../assets/processlevel_add_hotspot_part2.png)
+
+![processlevel_add_hotspot_part3.png](../../../assets/processlevel_add_hotspot_part3.png)
+
+![processlevel_add_hotspot_part4.png](../../../assets/processlevel_add_hotspot_part4.png)
+
+![processlevel_add_hotspot_part5.png](../../../assets/processlevel_add_hotspot_part5.png)
+
+![processlevel_add_hotspot_part6.png](../../../assets/processlevel_add_hotspot_part6.png)
+
+##
