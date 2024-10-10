@@ -58,11 +58,11 @@ Dodano modele odczytu:
 - lista kar - x2
 - lista kar użytkownika - x4
 
-![[Pasted image 20241010224524.png]]
-![[Pasted image 20241010224547.png]]
-![[Pasted image 20241010224558.png]]
-![[Pasted image 20241010224609.png]]
-![[Pasted image 20241010224619.png]]
-![[Pasted image 20241010224629.png]]
+![[processlevel_add_readmodel_pl_part1.png]]
+![[processlevel_add_readmodel_pl_part2.png]]
+![[processlevel_add_readmodel_pl_part3.png]]
+![[processlevel_add_readmodel_pl_part4.png]]
+![[processlevel_add_readmodel_pl_part5.png]]
+![[processlevel_add_readmodel_pl_part6.png]]
 
 ## 
