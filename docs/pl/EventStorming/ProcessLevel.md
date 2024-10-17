@@ -117,4 +117,14 @@ Przy okazji zauważono też możliwe usprawnienia które dodano:
 
 ![processlevel_add_hotspot_part6.png](../../../assets/processlevel_add_hotspot_part6.png)
 
-##
+## Wyznaczenie źródeł prawdy
+
+Zaczęliśmy od intuicyjnego wymienienia źródeł prawdy, były to:
+- wypożyczenia
+- książki
+- użytkownicy
+- kary
+
+Później zauważyliśmy że nasze źródła prawdy są bardzo powiązane z read modelami, po czym zauważyliśmy że dobrze było by mieć whisliste z osobnym źródłem prawdy.
+
+![processlevel_add_source_of_true_pl.png](../../../assets/processlevel_add_source_of_true_pl.png)
